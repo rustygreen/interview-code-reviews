@@ -5,15 +5,15 @@
   - IE10+
  */
 function add(num1, num2) {
-  var value = num1 + num2
+  var value = num1 + num2;
 
-  return value
+  return value;
 }
 
 // Subract.
 var subtract = function(one, two){
     //return two nums subtracted.
-    return two / one;
+    return two - one;
 }
 
 function Sum(values) {
